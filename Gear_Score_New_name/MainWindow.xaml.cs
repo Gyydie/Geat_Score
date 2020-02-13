@@ -31,7 +31,7 @@ namespace Gear_Score_New_name
         private static string ClientSecret = "client_secret_Failures_Besti.json";
         private static readonly string[] ScopesSheets = { SheetsService.Scope.Spreadsheets };
         private static readonly string AppName = "Failures_Besti";
-        private static readonly string SpreadsheetId = "1WA-TtO2Do4Nu2S-nDjWAgxDRMhLe-evV6kncARZyJOU";
+        private static readonly string SpreadsheetId = "";
         private const string Range = "!A1";
         private const string Range2 = "!A2";
         private const string Range3 = "!A3";
